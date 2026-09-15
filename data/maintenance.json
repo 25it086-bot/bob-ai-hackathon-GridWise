@@ -1,0 +1,4922 @@
+[
+  {
+    "id": "M-TF-001-01",
+    "equipment_id": "TF-001",
+    "maintenance_date": "2021-11-13",
+    "maintenance_type": "repair",
+    "technician": "Samuel Okonkwo",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": true,
+    "duration_hours": 8.9
+  },
+  {
+    "id": "M-TF-001-02",
+    "equipment_id": "TF-001",
+    "maintenance_date": "2021-05-07",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-TF-001-03",
+    "equipment_id": "TF-001",
+    "maintenance_date": "2020-12-05",
+    "maintenance_type": "inspection",
+    "technician": "Anna Kovacs",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-SW-001-01",
+    "equipment_id": "SW-001",
+    "maintenance_date": "2022-11-16",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 1.5
+  },
+  {
+    "id": "M-SW-001-02",
+    "equipment_id": "SW-001",
+    "maintenance_date": "2021-12-06",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SW-001-03",
+    "equipment_id": "SW-001",
+    "maintenance_date": "2021-01-26",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": false,
+    "duration_hours": 3.3
+  },
+  {
+    "id": "M-SS-001-01",
+    "equipment_id": "SS-001",
+    "maintenance_date": "2023-09-08",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-SS-001-02",
+    "equipment_id": "SS-001",
+    "maintenance_date": "2023-05-27",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 4.1
+  },
+  {
+    "id": "M-SS-001-03",
+    "equipment_id": "SS-001",
+    "maintenance_date": "2022-12-15",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 6.3
+  },
+  {
+    "id": "M-SS-001-04",
+    "equipment_id": "SS-001",
+    "maintenance_date": "2022-09-01",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-SS-001-05",
+    "equipment_id": "SS-001",
+    "maintenance_date": "2021-12-26",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": false,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-SS-001-06",
+    "equipment_id": "SS-001",
+    "maintenance_date": "2021-08-15",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": true,
+    "duration_hours": 6.0
+  },
+  {
+    "id": "M-SW-002-01",
+    "equipment_id": "SW-002",
+    "maintenance_date": "2023-02-07",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 5.2
+  },
+  {
+    "id": "M-SW-002-02",
+    "equipment_id": "SW-002",
+    "maintenance_date": "2022-08-23",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-SW-002-03",
+    "equipment_id": "SW-002",
+    "maintenance_date": "2021-08-27",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-SW-002-04",
+    "equipment_id": "SW-002",
+    "maintenance_date": "2021-04-01",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 6.1
+  },
+  {
+    "id": "M-SW-002-05",
+    "equipment_id": "SW-002",
+    "maintenance_date": "2020-08-21",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": false,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-SW-002-06",
+    "equipment_id": "SW-002",
+    "maintenance_date": "2019-09-15",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 6.8
+  },
+  {
+    "id": "M-SW-002-07",
+    "equipment_id": "SW-002",
+    "maintenance_date": "2019-05-04",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Replaced faulty temperature indicator relay.",
+    "issue_found": false,
+    "duration_hours": 8.5
+  },
+  {
+    "id": "M-SW-002-08",
+    "equipment_id": "SW-002",
+    "maintenance_date": "2018-08-10",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 7.3
+  },
+  {
+    "id": "M-SS-002-01",
+    "equipment_id": "SS-002",
+    "maintenance_date": "2023-04-12",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 6.2
+  },
+  {
+    "id": "M-SS-002-02",
+    "equipment_id": "SS-002",
+    "maintenance_date": "2022-05-31",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 7.5
+  },
+  {
+    "id": "M-SS-002-03",
+    "equipment_id": "SS-002",
+    "maintenance_date": "2022-02-02",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 6.6
+  },
+  {
+    "id": "M-SS-002-04",
+    "equipment_id": "SS-002",
+    "maintenance_date": "2021-10-06",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 6.9
+  },
+  {
+    "id": "M-SS-002-05",
+    "equipment_id": "SS-002",
+    "maintenance_date": "2021-07-07",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-SS-002-06",
+    "equipment_id": "SS-002",
+    "maintenance_date": "2020-10-14",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 7.8
+  },
+  {
+    "id": "M-SS-002-07",
+    "equipment_id": "SS-002",
+    "maintenance_date": "2020-02-21",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 4.8
+  },
+  {
+    "id": "M-SS-003-01",
+    "equipment_id": "SS-003",
+    "maintenance_date": "2022-07-31",
+    "maintenance_type": "repair",
+    "technician": "Derek Muller",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": true,
+    "duration_hours": 2.3
+  },
+  {
+    "id": "M-SS-003-02",
+    "equipment_id": "SS-003",
+    "maintenance_date": "2021-09-30",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 3.5
+  },
+  {
+    "id": "M-SS-003-03",
+    "equipment_id": "SS-003",
+    "maintenance_date": "2020-10-01",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 3.7
+  },
+  {
+    "id": "M-SS-003-04",
+    "equipment_id": "SS-003",
+    "maintenance_date": "2020-06-11",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 3.0
+  },
+  {
+    "id": "M-SS-003-05",
+    "equipment_id": "SS-003",
+    "maintenance_date": "2019-09-26",
+    "maintenance_type": "emergency",
+    "technician": "Sandra Osei",
+    "notes": "Emergency restoration following thermal trip. Root cause: sustained overload.",
+    "issue_found": false,
+    "duration_hours": 4.8
+  },
+  {
+    "id": "M-SS-003-06",
+    "equipment_id": "SS-003",
+    "maintenance_date": "2018-10-06",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 8.0
+  },
+  {
+    "id": "M-SS-003-07",
+    "equipment_id": "SS-003",
+    "maintenance_date": "2017-12-29",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 2.7
+  },
+  {
+    "id": "M-SS-003-08",
+    "equipment_id": "SS-003",
+    "maintenance_date": "2017-09-18",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "M-FD-001-01",
+    "equipment_id": "FD-001",
+    "maintenance_date": "2022-11-16",
+    "maintenance_type": "repair",
+    "technician": "Samuel Okonkwo",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 8.1
+  },
+  {
+    "id": "M-FD-001-02",
+    "equipment_id": "FD-001",
+    "maintenance_date": "2022-08-17",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 7.7
+  },
+  {
+    "id": "M-FD-001-03",
+    "equipment_id": "FD-001",
+    "maintenance_date": "2021-09-20",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-FD-001-04",
+    "equipment_id": "FD-001",
+    "maintenance_date": "2020-11-20",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 3.2
+  },
+  {
+    "id": "M-TF-002-01",
+    "equipment_id": "TF-002",
+    "maintenance_date": "2023-04-14",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 5.2
+  },
+  {
+    "id": "M-TF-002-02",
+    "equipment_id": "TF-002",
+    "maintenance_date": "2022-10-31",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 9.5
+  },
+  {
+    "id": "M-TF-002-03",
+    "equipment_id": "TF-002",
+    "maintenance_date": "2022-05-30",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 4.2
+  },
+  {
+    "id": "M-TF-002-04",
+    "equipment_id": "TF-002",
+    "maintenance_date": "2021-11-18",
+    "maintenance_type": "emergency",
+    "technician": "Priya Sharma",
+    "notes": "Bypass switching during bushing replacement under contingency.",
+    "issue_found": false,
+    "duration_hours": 3.3
+  },
+  {
+    "id": "M-TF-002-05",
+    "equipment_id": "TF-002",
+    "maintenance_date": "2021-07-17",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 8.6
+  },
+  {
+    "id": "M-TF-002-06",
+    "equipment_id": "TF-002",
+    "maintenance_date": "2020-11-28",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 2.8
+  },
+  {
+    "id": "M-TF-002-07",
+    "equipment_id": "TF-002",
+    "maintenance_date": "2020-01-29",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 2.9
+  },
+  {
+    "id": "M-TF-002-08",
+    "equipment_id": "TF-002",
+    "maintenance_date": "2019-09-10",
+    "maintenance_type": "repair",
+    "technician": "Priya Sharma",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": false,
+    "duration_hours": 8.5
+  },
+  {
+    "id": "M-SW-003-01",
+    "equipment_id": "SW-003",
+    "maintenance_date": "2022-10-27",
+    "maintenance_type": "repair",
+    "technician": "Connor O'Brien",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": true,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-SW-003-02",
+    "equipment_id": "SW-003",
+    "maintenance_date": "2022-07-04",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 11.6
+  },
+  {
+    "id": "M-SW-003-03",
+    "equipment_id": "SW-003",
+    "maintenance_date": "2021-12-06",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 7.5
+  },
+  {
+    "id": "M-SW-003-04",
+    "equipment_id": "SW-003",
+    "maintenance_date": "2021-03-30",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 6.5
+  },
+  {
+    "id": "M-SW-003-05",
+    "equipment_id": "SW-003",
+    "maintenance_date": "2020-11-08",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 7.0
+  },
+  {
+    "id": "M-SW-003-06",
+    "equipment_id": "SW-003",
+    "maintenance_date": "2020-03-08",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 1.1
+  },
+  {
+    "id": "M-TF-003-01",
+    "equipment_id": "TF-003",
+    "maintenance_date": "2023-01-31",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 5.6
+  },
+  {
+    "id": "M-TF-003-02",
+    "equipment_id": "TF-003",
+    "maintenance_date": "2022-10-01",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 7.8
+  },
+  {
+    "id": "M-TF-003-03",
+    "equipment_id": "TF-003",
+    "maintenance_date": "2021-10-11",
+    "maintenance_type": "repair",
+    "technician": "Derek Muller",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": true,
+    "duration_hours": 5.5
+  },
+  {
+    "id": "M-TF-003-04",
+    "equipment_id": "TF-003",
+    "maintenance_date": "2021-01-29",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 4.5
+  },
+  {
+    "id": "M-TF-003-05",
+    "equipment_id": "TF-003",
+    "maintenance_date": "2020-06-19",
+    "maintenance_type": "inspection",
+    "technician": "Anna Kovacs",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-TF-003-06",
+    "equipment_id": "TF-003",
+    "maintenance_date": "2020-02-11",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": true,
+    "duration_hours": 7.3
+  },
+  {
+    "id": "M-TF-003-07",
+    "equipment_id": "TF-003",
+    "maintenance_date": "2019-04-20",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 5.2
+  },
+  {
+    "id": "M-FD-002-01",
+    "equipment_id": "FD-002",
+    "maintenance_date": "2022-03-31",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 5.2
+  },
+  {
+    "id": "M-FD-002-02",
+    "equipment_id": "FD-002",
+    "maintenance_date": "2021-11-21",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 6.9
+  },
+  {
+    "id": "M-FD-002-03",
+    "equipment_id": "FD-002",
+    "maintenance_date": "2020-12-24",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": true,
+    "duration_hours": 5.1
+  },
+  {
+    "id": "M-FD-002-04",
+    "equipment_id": "FD-002",
+    "maintenance_date": "2020-05-14",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": true,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-FD-002-05",
+    "equipment_id": "FD-002",
+    "maintenance_date": "2019-10-20",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 8.2
+  },
+  {
+    "id": "M-FD-002-06",
+    "equipment_id": "FD-002",
+    "maintenance_date": "2019-07-08",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 8.5
+  },
+  {
+    "id": "M-FD-003-01",
+    "equipment_id": "FD-003",
+    "maintenance_date": "2022-12-01",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 2.8
+  },
+  {
+    "id": "M-FD-003-02",
+    "equipment_id": "FD-003",
+    "maintenance_date": "2021-12-01",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-FD-003-03",
+    "equipment_id": "FD-003",
+    "maintenance_date": "2020-12-29",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 3.8
+  },
+  {
+    "id": "M-FD-003-04",
+    "equipment_id": "FD-003",
+    "maintenance_date": "2020-01-05",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 2.9
+  },
+  {
+    "id": "M-FD-003-05",
+    "equipment_id": "FD-003",
+    "maintenance_date": "2019-05-22",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 3.5
+  },
+  {
+    "id": "M-TF-004-01",
+    "equipment_id": "TF-004",
+    "maintenance_date": "2022-09-27",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 7.2
+  },
+  {
+    "id": "M-TF-004-02",
+    "equipment_id": "TF-004",
+    "maintenance_date": "2021-10-09",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 4.2
+  },
+  {
+    "id": "M-TF-004-03",
+    "equipment_id": "TF-004",
+    "maintenance_date": "2021-02-16",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 10.9
+  },
+  {
+    "id": "M-TF-004-04",
+    "equipment_id": "TF-004",
+    "maintenance_date": "2020-05-29",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": true,
+    "duration_hours": 5.7
+  },
+  {
+    "id": "M-TF-004-05",
+    "equipment_id": "TF-004",
+    "maintenance_date": "2019-08-17",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 4.5
+  },
+  {
+    "id": "M-TF-004-06",
+    "equipment_id": "TF-004",
+    "maintenance_date": "2018-10-03",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 4.1
+  },
+  {
+    "id": "M-SS-004-01",
+    "equipment_id": "SS-004",
+    "maintenance_date": "2021-04-01",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-SS-004-02",
+    "equipment_id": "SS-004",
+    "maintenance_date": "2020-04-03",
+    "maintenance_type": "emergency",
+    "technician": "Marcus Webb",
+    "notes": "Emergency restoration following thermal trip. Root cause: sustained overload.",
+    "issue_found": false,
+    "duration_hours": 3.8
+  },
+  {
+    "id": "M-SS-004-03",
+    "equipment_id": "SS-004",
+    "maintenance_date": "2019-12-14",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 6.9
+  },
+  {
+    "id": "M-SS-004-04",
+    "equipment_id": "SS-004",
+    "maintenance_date": "2018-12-22",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 7.0
+  },
+  {
+    "id": "M-SS-004-05",
+    "equipment_id": "SS-004",
+    "maintenance_date": "2018-08-18",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 7.6
+  },
+  {
+    "id": "M-SS-004-06",
+    "equipment_id": "SS-004",
+    "maintenance_date": "2017-09-21",
+    "maintenance_type": "repair",
+    "technician": "Samuel Okonkwo",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-SS-005-01",
+    "equipment_id": "SS-005",
+    "maintenance_date": "2021-03-22",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 6.5
+  },
+  {
+    "id": "M-SS-005-02",
+    "equipment_id": "SS-005",
+    "maintenance_date": "2020-07-27",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 9.5
+  },
+  {
+    "id": "M-SS-005-03",
+    "equipment_id": "SS-005",
+    "maintenance_date": "2019-11-25",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-SS-005-04",
+    "equipment_id": "SS-005",
+    "maintenance_date": "2019-03-27",
+    "maintenance_type": "emergency",
+    "technician": "Sandra Osei",
+    "notes": "Emergency oil top-up following minor leak identified during patrol.",
+    "issue_found": false,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-SS-005-05",
+    "equipment_id": "SS-005",
+    "maintenance_date": "2018-08-02",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "M-SS-006-01",
+    "equipment_id": "SS-006",
+    "maintenance_date": "2023-06-22",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 2.5
+  },
+  {
+    "id": "M-SS-006-02",
+    "equipment_id": "SS-006",
+    "maintenance_date": "2023-03-06",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-SS-006-03",
+    "equipment_id": "SS-006",
+    "maintenance_date": "2022-07-17",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 7.8
+  },
+  {
+    "id": "M-SS-006-04",
+    "equipment_id": "SS-006",
+    "maintenance_date": "2022-04-08",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 4.3
+  },
+  {
+    "id": "M-TF-005-01",
+    "equipment_id": "TF-005",
+    "maintenance_date": "2023-06-22",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-TF-005-02",
+    "equipment_id": "TF-005",
+    "maintenance_date": "2022-08-23",
+    "maintenance_type": "repair",
+    "technician": "Samuel Okonkwo",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": false,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-TF-005-03",
+    "equipment_id": "TF-005",
+    "maintenance_date": "2021-10-05",
+    "maintenance_type": "repair",
+    "technician": "Priya Sharma",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-TF-005-04",
+    "equipment_id": "TF-005",
+    "maintenance_date": "2021-04-03",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 9.7
+  },
+  {
+    "id": "M-TF-005-05",
+    "equipment_id": "TF-005",
+    "maintenance_date": "2020-11-10",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 8.6
+  },
+  {
+    "id": "M-TF-005-06",
+    "equipment_id": "TF-005",
+    "maintenance_date": "2019-12-21",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-TF-005-07",
+    "equipment_id": "TF-005",
+    "maintenance_date": "2019-01-16",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 2.7
+  },
+  {
+    "id": "M-TF-006-01",
+    "equipment_id": "TF-006",
+    "maintenance_date": "2022-11-14",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 3.3
+  },
+  {
+    "id": "M-TF-006-02",
+    "equipment_id": "TF-006",
+    "maintenance_date": "2022-08-07",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-TF-006-03",
+    "equipment_id": "TF-006",
+    "maintenance_date": "2021-09-24",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 2.5
+  },
+  {
+    "id": "M-FD-004-01",
+    "equipment_id": "FD-004",
+    "maintenance_date": "2023-03-27",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 6.5
+  },
+  {
+    "id": "M-FD-004-02",
+    "equipment_id": "FD-004",
+    "maintenance_date": "2022-05-19",
+    "maintenance_type": "repair",
+    "technician": "Jamal Torres",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": true,
+    "duration_hours": 5.5
+  },
+  {
+    "id": "M-FD-004-03",
+    "equipment_id": "FD-004",
+    "maintenance_date": "2021-08-09",
+    "maintenance_type": "inspection",
+    "technician": "Anna Kovacs",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 3.4
+  },
+  {
+    "id": "M-FD-004-04",
+    "equipment_id": "FD-004",
+    "maintenance_date": "2021-01-06",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": false,
+    "duration_hours": 6.3
+  },
+  {
+    "id": "M-FD-004-05",
+    "equipment_id": "FD-004",
+    "maintenance_date": "2020-07-24",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 3.3
+  },
+  {
+    "id": "M-FD-004-06",
+    "equipment_id": "FD-004",
+    "maintenance_date": "2020-02-21",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-SS-007-01",
+    "equipment_id": "SS-007",
+    "maintenance_date": "2022-11-02",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": false,
+    "duration_hours": 7.1
+  },
+  {
+    "id": "M-SS-007-02",
+    "equipment_id": "SS-007",
+    "maintenance_date": "2022-05-03",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 2.8
+  },
+  {
+    "id": "M-SS-007-03",
+    "equipment_id": "SS-007",
+    "maintenance_date": "2021-12-29",
+    "maintenance_type": "emergency",
+    "technician": "Li Wei",
+    "notes": "Cable splice replacement after insulation failure. Restored in 4h.",
+    "issue_found": true,
+    "duration_hours": 6.1
+  },
+  {
+    "id": "M-SS-008-01",
+    "equipment_id": "SS-008",
+    "maintenance_date": "2023-04-10",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-SS-008-02",
+    "equipment_id": "SS-008",
+    "maintenance_date": "2022-04-22",
+    "maintenance_type": "inspection",
+    "technician": "Anna Kovacs",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-SS-008-03",
+    "equipment_id": "SS-008",
+    "maintenance_date": "2021-11-23",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 3.2
+  },
+  {
+    "id": "M-SW-004-01",
+    "equipment_id": "SW-004",
+    "maintenance_date": "2022-09-23",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 5.8
+  },
+  {
+    "id": "M-SW-004-02",
+    "equipment_id": "SW-004",
+    "maintenance_date": "2022-04-20",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 5.6
+  },
+  {
+    "id": "M-SW-004-03",
+    "equipment_id": "SW-004",
+    "maintenance_date": "2021-07-14",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-SW-004-04",
+    "equipment_id": "SW-004",
+    "maintenance_date": "2021-03-02",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": true,
+    "duration_hours": 7.4
+  },
+  {
+    "id": "M-SW-004-05",
+    "equipment_id": "SW-004",
+    "maintenance_date": "2020-08-27",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 7.3
+  },
+  {
+    "id": "M-SW-004-06",
+    "equipment_id": "SW-004",
+    "maintenance_date": "2019-12-06",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-FD-005-01",
+    "equipment_id": "FD-005",
+    "maintenance_date": "2023-05-23",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": true,
+    "duration_hours": 8.4
+  },
+  {
+    "id": "M-FD-005-02",
+    "equipment_id": "FD-005",
+    "maintenance_date": "2022-12-12",
+    "maintenance_type": "repair",
+    "technician": "Yuki Tanaka",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": true,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-FD-005-03",
+    "equipment_id": "FD-005",
+    "maintenance_date": "2021-12-20",
+    "maintenance_type": "emergency",
+    "technician": "Connor O'Brien",
+    "notes": "Cable splice replacement after insulation failure. Restored in 4h.",
+    "issue_found": false,
+    "duration_hours": 4.1
+  },
+  {
+    "id": "M-FD-005-04",
+    "equipment_id": "FD-005",
+    "maintenance_date": "2021-02-13",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 8.4
+  },
+  {
+    "id": "M-FD-005-05",
+    "equipment_id": "FD-005",
+    "maintenance_date": "2020-07-16",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-FD-005-06",
+    "equipment_id": "FD-005",
+    "maintenance_date": "2020-02-28",
+    "maintenance_type": "repair",
+    "technician": "Priya Sharma",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": true,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-TF-007-01",
+    "equipment_id": "TF-007",
+    "maintenance_date": "2023-03-13",
+    "maintenance_type": "inspection",
+    "technician": "Connor O'Brien",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 6.6
+  },
+  {
+    "id": "M-TF-007-02",
+    "equipment_id": "TF-007",
+    "maintenance_date": "2022-12-08",
+    "maintenance_type": "inspection",
+    "technician": "Connor O'Brien",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": true,
+    "duration_hours": 6.5
+  },
+  {
+    "id": "M-TF-007-03",
+    "equipment_id": "TF-007",
+    "maintenance_date": "2022-05-13",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": false,
+    "duration_hours": 3.9
+  },
+  {
+    "id": "M-SS-009-01",
+    "equipment_id": "SS-009",
+    "maintenance_date": "2022-12-02",
+    "maintenance_type": "repair",
+    "technician": "Connor O'Brien",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 5.8
+  },
+  {
+    "id": "M-SS-009-02",
+    "equipment_id": "SS-009",
+    "maintenance_date": "2021-12-16",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": true,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-SS-009-03",
+    "equipment_id": "SS-009",
+    "maintenance_date": "2021-07-06",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 7.8
+  },
+  {
+    "id": "M-SS-009-04",
+    "equipment_id": "SS-009",
+    "maintenance_date": "2021-01-18",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 2.8
+  },
+  {
+    "id": "M-SS-009-05",
+    "equipment_id": "SS-009",
+    "maintenance_date": "2020-07-10",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 3.1
+  },
+  {
+    "id": "M-SW-005-01",
+    "equipment_id": "SW-005",
+    "maintenance_date": "2022-10-30",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": true,
+    "duration_hours": 4.6
+  },
+  {
+    "id": "M-SW-005-02",
+    "equipment_id": "SW-005",
+    "maintenance_date": "2022-05-01",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 5.8
+  },
+  {
+    "id": "M-SW-005-03",
+    "equipment_id": "SW-005",
+    "maintenance_date": "2021-11-27",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-SW-005-04",
+    "equipment_id": "SW-005",
+    "maintenance_date": "2021-08-10",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 3.5
+  },
+  {
+    "id": "M-SW-005-05",
+    "equipment_id": "SW-005",
+    "maintenance_date": "2020-12-01",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 11.8
+  },
+  {
+    "id": "M-SW-005-06",
+    "equipment_id": "SW-005",
+    "maintenance_date": "2020-08-25",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-TF-008-01",
+    "equipment_id": "TF-008",
+    "maintenance_date": "2022-04-18",
+    "maintenance_type": "emergency",
+    "technician": "Priya Sharma",
+    "notes": "Emergency oil top-up following minor leak identified during patrol.",
+    "issue_found": true,
+    "duration_hours": 3.4
+  },
+  {
+    "id": "M-TF-008-02",
+    "equipment_id": "TF-008",
+    "maintenance_date": "2021-06-24",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": true,
+    "duration_hours": 5.8
+  },
+  {
+    "id": "M-TF-008-03",
+    "equipment_id": "TF-008",
+    "maintenance_date": "2020-07-10",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 3.1
+  },
+  {
+    "id": "M-SW-006-01",
+    "equipment_id": "SW-006",
+    "maintenance_date": "2022-05-25",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-SW-006-02",
+    "equipment_id": "SW-006",
+    "maintenance_date": "2021-11-22",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 5.1
+  },
+  {
+    "id": "M-SW-006-03",
+    "equipment_id": "SW-006",
+    "maintenance_date": "2021-02-14",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 8.8
+  },
+  {
+    "id": "M-SS-010-01",
+    "equipment_id": "SS-010",
+    "maintenance_date": "2021-09-21",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 3.5
+  },
+  {
+    "id": "M-SS-010-02",
+    "equipment_id": "SS-010",
+    "maintenance_date": "2020-09-28",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 4.6
+  },
+  {
+    "id": "M-SS-010-03",
+    "equipment_id": "SS-010",
+    "maintenance_date": "2020-03-07",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 4.2
+  },
+  {
+    "id": "M-SS-010-04",
+    "equipment_id": "SS-010",
+    "maintenance_date": "2019-10-08",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": true,
+    "duration_hours": 9.6
+  },
+  {
+    "id": "M-SS-010-05",
+    "equipment_id": "SS-010",
+    "maintenance_date": "2018-10-15",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Replaced faulty temperature indicator relay.",
+    "issue_found": false,
+    "duration_hours": 2.2
+  },
+  {
+    "id": "M-SS-010-06",
+    "equipment_id": "SS-010",
+    "maintenance_date": "2018-07-01",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 7.9
+  },
+  {
+    "id": "M-SS-010-07",
+    "equipment_id": "SS-010",
+    "maintenance_date": "2017-07-03",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": true,
+    "duration_hours": 6.3
+  },
+  {
+    "id": "M-SS-011-01",
+    "equipment_id": "SS-011",
+    "maintenance_date": "2023-09-20",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-SS-011-02",
+    "equipment_id": "SS-011",
+    "maintenance_date": "2023-01-08",
+    "maintenance_type": "inspection",
+    "technician": "Anna Kovacs",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": false,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-SS-011-03",
+    "equipment_id": "SS-011",
+    "maintenance_date": "2022-07-02",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 2.2
+  },
+  {
+    "id": "M-SS-011-04",
+    "equipment_id": "SS-011",
+    "maintenance_date": "2021-12-09",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 4.3
+  },
+  {
+    "id": "M-FD-006-01",
+    "equipment_id": "FD-006",
+    "maintenance_date": "2022-11-28",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 6.5
+  },
+  {
+    "id": "M-FD-006-02",
+    "equipment_id": "FD-006",
+    "maintenance_date": "2022-01-13",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 4.6
+  },
+  {
+    "id": "M-FD-006-03",
+    "equipment_id": "FD-006",
+    "maintenance_date": "2021-08-01",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SW-007-01",
+    "equipment_id": "SW-007",
+    "maintenance_date": "2023-02-15",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 5.9
+  },
+  {
+    "id": "M-SW-007-02",
+    "equipment_id": "SW-007",
+    "maintenance_date": "2022-08-04",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 8.8
+  },
+  {
+    "id": "M-SW-007-03",
+    "equipment_id": "SW-007",
+    "maintenance_date": "2021-11-01",
+    "maintenance_type": "repair",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 3.7
+  },
+  {
+    "id": "M-SW-007-04",
+    "equipment_id": "SW-007",
+    "maintenance_date": "2021-01-24",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 7.8
+  },
+  {
+    "id": "M-SW-007-05",
+    "equipment_id": "SW-007",
+    "maintenance_date": "2020-05-26",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 7.3
+  },
+  {
+    "id": "M-SS-012-01",
+    "equipment_id": "SS-012",
+    "maintenance_date": "2023-03-29",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": false,
+    "duration_hours": 8.0
+  },
+  {
+    "id": "M-SS-012-02",
+    "equipment_id": "SS-012",
+    "maintenance_date": "2022-09-21",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 7.8
+  },
+  {
+    "id": "M-SS-012-03",
+    "equipment_id": "SS-012",
+    "maintenance_date": "2021-11-19",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 5.6
+  },
+  {
+    "id": "M-SS-012-04",
+    "equipment_id": "SS-012",
+    "maintenance_date": "2021-08-07",
+    "maintenance_type": "inspection",
+    "technician": "Connor O'Brien",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 7.0
+  },
+  {
+    "id": "M-SS-012-05",
+    "equipment_id": "SS-012",
+    "maintenance_date": "2020-09-13",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 3.9
+  },
+  {
+    "id": "M-SS-012-06",
+    "equipment_id": "SS-012",
+    "maintenance_date": "2019-11-01",
+    "maintenance_type": "repair",
+    "technician": "Derek Muller",
+    "notes": "Replaced faulty temperature indicator relay.",
+    "issue_found": true,
+    "duration_hours": 6.0
+  },
+  {
+    "id": "M-SS-012-07",
+    "equipment_id": "SS-012",
+    "maintenance_date": "2019-03-15",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 3.1
+  },
+  {
+    "id": "M-TF-009-01",
+    "equipment_id": "TF-009",
+    "maintenance_date": "2023-01-28",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 3.9
+  },
+  {
+    "id": "M-TF-009-02",
+    "equipment_id": "TF-009",
+    "maintenance_date": "2022-10-06",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 6.3
+  },
+  {
+    "id": "M-TF-009-03",
+    "equipment_id": "TF-009",
+    "maintenance_date": "2022-04-16",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 7.4
+  },
+  {
+    "id": "M-TF-009-04",
+    "equipment_id": "TF-009",
+    "maintenance_date": "2021-10-29",
+    "maintenance_type": "emergency",
+    "technician": "Derek Muller",
+    "notes": "Emergency oil top-up following minor leak identified during patrol.",
+    "issue_found": true,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "M-TF-009-05",
+    "equipment_id": "TF-009",
+    "maintenance_date": "2021-05-02",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": true,
+    "duration_hours": 7.5
+  },
+  {
+    "id": "M-TF-009-06",
+    "equipment_id": "TF-009",
+    "maintenance_date": "2020-08-11",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-TF-009-07",
+    "equipment_id": "TF-009",
+    "maintenance_date": "2020-03-15",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SW-008-01",
+    "equipment_id": "SW-008",
+    "maintenance_date": "2022-12-18",
+    "maintenance_type": "repair",
+    "technician": "Connor O'Brien",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": true,
+    "duration_hours": 5.9
+  },
+  {
+    "id": "M-SW-008-02",
+    "equipment_id": "SW-008",
+    "maintenance_date": "2022-04-30",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-SW-008-03",
+    "equipment_id": "SW-008",
+    "maintenance_date": "2022-01-09",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-SW-008-04",
+    "equipment_id": "SW-008",
+    "maintenance_date": "2021-02-18",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 1.2
+  },
+  {
+    "id": "M-SW-008-05",
+    "equipment_id": "SW-008",
+    "maintenance_date": "2020-02-26",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 3.7
+  },
+  {
+    "id": "M-SW-008-06",
+    "equipment_id": "SW-008",
+    "maintenance_date": "2019-05-05",
+    "maintenance_type": "repair",
+    "technician": "Jamal Torres",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 2.1
+  },
+  {
+    "id": "M-SS-013-01",
+    "equipment_id": "SS-013",
+    "maintenance_date": "2022-11-02",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "M-SS-013-02",
+    "equipment_id": "SS-013",
+    "maintenance_date": "2022-03-17",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SS-013-03",
+    "equipment_id": "SS-013",
+    "maintenance_date": "2021-07-14",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 4.9
+  },
+  {
+    "id": "M-SS-013-04",
+    "equipment_id": "SS-013",
+    "maintenance_date": "2020-12-27",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 8.5
+  },
+  {
+    "id": "M-FD-007-01",
+    "equipment_id": "FD-007",
+    "maintenance_date": "2023-01-06",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 5.7
+  },
+  {
+    "id": "M-FD-007-02",
+    "equipment_id": "FD-007",
+    "maintenance_date": "2022-03-12",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": true,
+    "duration_hours": 3.4
+  },
+  {
+    "id": "M-FD-007-03",
+    "equipment_id": "FD-007",
+    "maintenance_date": "2021-08-17",
+    "maintenance_type": "repair",
+    "technician": "Samuel Okonkwo",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-FD-007-04",
+    "equipment_id": "FD-007",
+    "maintenance_date": "2020-09-30",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": true,
+    "duration_hours": 6.9
+  },
+  {
+    "id": "M-FD-007-05",
+    "equipment_id": "FD-007",
+    "maintenance_date": "2020-06-22",
+    "maintenance_type": "inspection",
+    "technician": "Jamal Torres",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 5.1
+  },
+  {
+    "id": "M-FD-007-06",
+    "equipment_id": "FD-007",
+    "maintenance_date": "2019-12-24",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 5.8
+  },
+  {
+    "id": "M-FD-007-07",
+    "equipment_id": "FD-007",
+    "maintenance_date": "2019-02-02",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 8.9
+  },
+  {
+    "id": "M-SW-009-01",
+    "equipment_id": "SW-009",
+    "maintenance_date": "2023-01-30",
+    "maintenance_type": "emergency",
+    "technician": "Jamal Torres",
+    "notes": "Fuse replacement after downstream fault \u2014 circuit re-energised.",
+    "issue_found": false,
+    "duration_hours": 2.5
+  },
+  {
+    "id": "M-SW-009-02",
+    "equipment_id": "SW-009",
+    "maintenance_date": "2022-10-11",
+    "maintenance_type": "repair",
+    "technician": "Connor O'Brien",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-SW-009-03",
+    "equipment_id": "SW-009",
+    "maintenance_date": "2022-03-14",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 8.7
+  },
+  {
+    "id": "M-TF-010-01",
+    "equipment_id": "TF-010",
+    "maintenance_date": "2022-08-16",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 4.3
+  },
+  {
+    "id": "M-TF-010-02",
+    "equipment_id": "TF-010",
+    "maintenance_date": "2022-02-18",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 2.8
+  },
+  {
+    "id": "M-TF-010-03",
+    "equipment_id": "TF-010",
+    "maintenance_date": "2021-10-31",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": true,
+    "duration_hours": 6.7
+  },
+  {
+    "id": "M-TF-011-01",
+    "equipment_id": "TF-011",
+    "maintenance_date": "2022-05-03",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 3.9
+  },
+  {
+    "id": "M-TF-011-02",
+    "equipment_id": "TF-011",
+    "maintenance_date": "2021-09-30",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": false,
+    "duration_hours": 7.1
+  },
+  {
+    "id": "M-TF-011-03",
+    "equipment_id": "TF-011",
+    "maintenance_date": "2021-01-20",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": true,
+    "duration_hours": 1.4
+  },
+  {
+    "id": "M-TF-011-04",
+    "equipment_id": "TF-011",
+    "maintenance_date": "2020-02-13",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 5.2
+  },
+  {
+    "id": "M-TF-011-05",
+    "equipment_id": "TF-011",
+    "maintenance_date": "2019-11-05",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 6.6
+  },
+  {
+    "id": "M-TF-011-06",
+    "equipment_id": "TF-011",
+    "maintenance_date": "2019-06-09",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-TF-011-07",
+    "equipment_id": "TF-011",
+    "maintenance_date": "2018-07-30",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 6.2
+  },
+  {
+    "id": "M-TF-011-08",
+    "equipment_id": "TF-011",
+    "maintenance_date": "2017-09-04",
+    "maintenance_type": "repair",
+    "technician": "Sandra Osei",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 6.9
+  },
+  {
+    "id": "M-FD-008-01",
+    "equipment_id": "FD-008",
+    "maintenance_date": "2022-09-01",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 3.2
+  },
+  {
+    "id": "M-FD-008-02",
+    "equipment_id": "FD-008",
+    "maintenance_date": "2022-03-08",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 3.0
+  },
+  {
+    "id": "M-FD-008-03",
+    "equipment_id": "FD-008",
+    "maintenance_date": "2021-07-29",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 1.9
+  },
+  {
+    "id": "M-FD-008-04",
+    "equipment_id": "FD-008",
+    "maintenance_date": "2020-12-31",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-FD-008-05",
+    "equipment_id": "FD-008",
+    "maintenance_date": "2020-02-16",
+    "maintenance_type": "repair",
+    "technician": "Derek Muller",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": false,
+    "duration_hours": 4.8
+  },
+  {
+    "id": "M-FD-008-06",
+    "equipment_id": "FD-008",
+    "maintenance_date": "2019-11-07",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": true,
+    "duration_hours": 10.6
+  },
+  {
+    "id": "M-FD-009-01",
+    "equipment_id": "FD-009",
+    "maintenance_date": "2021-05-10",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 8.0
+  },
+  {
+    "id": "M-FD-009-02",
+    "equipment_id": "FD-009",
+    "maintenance_date": "2020-06-24",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 5.1
+  },
+  {
+    "id": "M-FD-009-03",
+    "equipment_id": "FD-009",
+    "maintenance_date": "2020-01-01",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 7.1
+  },
+  {
+    "id": "M-FD-009-04",
+    "equipment_id": "FD-009",
+    "maintenance_date": "2019-01-01",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 4.8
+  },
+  {
+    "id": "M-FD-009-05",
+    "equipment_id": "FD-009",
+    "maintenance_date": "2018-09-02",
+    "maintenance_type": "repair",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": true,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-FD-009-06",
+    "equipment_id": "FD-009",
+    "maintenance_date": "2018-01-29",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": true,
+    "duration_hours": 5.8
+  },
+  {
+    "id": "M-FD-009-07",
+    "equipment_id": "FD-009",
+    "maintenance_date": "2017-07-06",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 7.3
+  },
+  {
+    "id": "M-FD-009-08",
+    "equipment_id": "FD-009",
+    "maintenance_date": "2016-11-22",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-FD-010-01",
+    "equipment_id": "FD-010",
+    "maintenance_date": "2022-03-05",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-FD-010-02",
+    "equipment_id": "FD-010",
+    "maintenance_date": "2021-06-16",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": true,
+    "duration_hours": 3.3
+  },
+  {
+    "id": "M-FD-010-03",
+    "equipment_id": "FD-010",
+    "maintenance_date": "2020-08-08",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 6.1
+  },
+  {
+    "id": "M-FD-010-04",
+    "equipment_id": "FD-010",
+    "maintenance_date": "2020-01-19",
+    "maintenance_type": "emergency",
+    "technician": "Yuki Tanaka",
+    "notes": "Fuse replacement after downstream fault \u2014 circuit re-energised.",
+    "issue_found": false,
+    "duration_hours": 1.9
+  },
+  {
+    "id": "M-FD-010-05",
+    "equipment_id": "FD-010",
+    "maintenance_date": "2019-07-23",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 4.9
+  },
+  {
+    "id": "M-FD-010-06",
+    "equipment_id": "FD-010",
+    "maintenance_date": "2018-11-23",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-FD-010-07",
+    "equipment_id": "FD-010",
+    "maintenance_date": "2018-01-10",
+    "maintenance_type": "repair",
+    "technician": "Connor O'Brien",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 7.3
+  },
+  {
+    "id": "M-FD-010-08",
+    "equipment_id": "FD-010",
+    "maintenance_date": "2017-02-25",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 6.7
+  },
+  {
+    "id": "M-TF-012-01",
+    "equipment_id": "TF-012",
+    "maintenance_date": "2023-06-04",
+    "maintenance_type": "emergency",
+    "technician": "Samuel Okonkwo",
+    "notes": "Cable splice replacement after insulation failure. Restored in 4h.",
+    "issue_found": true,
+    "duration_hours": 3.1
+  },
+  {
+    "id": "M-TF-012-02",
+    "equipment_id": "TF-012",
+    "maintenance_date": "2022-08-20",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 4.5
+  },
+  {
+    "id": "M-TF-012-03",
+    "equipment_id": "TF-012",
+    "maintenance_date": "2022-03-23",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-TF-012-04",
+    "equipment_id": "TF-012",
+    "maintenance_date": "2021-05-24",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 7.9
+  },
+  {
+    "id": "M-TF-013-01",
+    "equipment_id": "TF-013",
+    "maintenance_date": "2023-04-27",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 4.2
+  },
+  {
+    "id": "M-TF-013-02",
+    "equipment_id": "TF-013",
+    "maintenance_date": "2023-01-24",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 9.6
+  },
+  {
+    "id": "M-TF-013-03",
+    "equipment_id": "TF-013",
+    "maintenance_date": "2022-05-23",
+    "maintenance_type": "repair",
+    "technician": "Jamal Torres",
+    "notes": "Replaced faulty temperature indicator relay.",
+    "issue_found": false,
+    "duration_hours": 8.7
+  },
+  {
+    "id": "M-TF-013-04",
+    "equipment_id": "TF-013",
+    "maintenance_date": "2021-11-02",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": true,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-TF-013-05",
+    "equipment_id": "TF-013",
+    "maintenance_date": "2020-11-17",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": false,
+    "duration_hours": 6.3
+  },
+  {
+    "id": "M-TF-013-06",
+    "equipment_id": "TF-013",
+    "maintenance_date": "2020-02-14",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 2.5
+  },
+  {
+    "id": "M-TF-013-07",
+    "equipment_id": "TF-013",
+    "maintenance_date": "2019-10-24",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 8.4
+  },
+  {
+    "id": "M-TF-013-08",
+    "equipment_id": "TF-013",
+    "maintenance_date": "2019-01-19",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-FD-011-01",
+    "equipment_id": "FD-011",
+    "maintenance_date": "2023-05-03",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 6.7
+  },
+  {
+    "id": "M-FD-011-02",
+    "equipment_id": "FD-011",
+    "maintenance_date": "2023-01-25",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 5.6
+  },
+  {
+    "id": "M-FD-011-03",
+    "equipment_id": "FD-011",
+    "maintenance_date": "2022-04-19",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 3.0
+  },
+  {
+    "id": "M-FD-011-04",
+    "equipment_id": "FD-011",
+    "maintenance_date": "2021-09-09",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 6.4
+  },
+  {
+    "id": "M-FD-011-05",
+    "equipment_id": "FD-011",
+    "maintenance_date": "2020-10-01",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 2.5
+  },
+  {
+    "id": "M-FD-011-06",
+    "equipment_id": "FD-011",
+    "maintenance_date": "2020-04-01",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Replaced faulty temperature indicator relay.",
+    "issue_found": true,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-FD-011-07",
+    "equipment_id": "FD-011",
+    "maintenance_date": "2019-05-22",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 4.2
+  },
+  {
+    "id": "M-FD-011-08",
+    "equipment_id": "FD-011",
+    "maintenance_date": "2018-09-01",
+    "maintenance_type": "inspection",
+    "technician": "Jamal Torres",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-SS-014-01",
+    "equipment_id": "SS-014",
+    "maintenance_date": "2023-01-02",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SS-014-02",
+    "equipment_id": "SS-014",
+    "maintenance_date": "2022-04-06",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 4.1
+  },
+  {
+    "id": "M-SS-014-03",
+    "equipment_id": "SS-014",
+    "maintenance_date": "2021-09-24",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-SS-014-04",
+    "equipment_id": "SS-014",
+    "maintenance_date": "2021-02-07",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 6.5
+  },
+  {
+    "id": "M-SW-010-01",
+    "equipment_id": "SW-010",
+    "maintenance_date": "2023-01-27",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SW-010-02",
+    "equipment_id": "SW-010",
+    "maintenance_date": "2022-02-01",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 6.3
+  },
+  {
+    "id": "M-SW-010-03",
+    "equipment_id": "SW-010",
+    "maintenance_date": "2021-06-20",
+    "maintenance_type": "repair",
+    "technician": "Jamal Torres",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": true,
+    "duration_hours": 2.5
+  },
+  {
+    "id": "M-SW-010-04",
+    "equipment_id": "SW-010",
+    "maintenance_date": "2020-06-28",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 4.6
+  },
+  {
+    "id": "M-SW-010-05",
+    "equipment_id": "SW-010",
+    "maintenance_date": "2020-03-15",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 5.7
+  },
+  {
+    "id": "M-SW-010-06",
+    "equipment_id": "SW-010",
+    "maintenance_date": "2019-11-05",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-SW-010-07",
+    "equipment_id": "SW-010",
+    "maintenance_date": "2019-06-28",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-SW-011-01",
+    "equipment_id": "SW-011",
+    "maintenance_date": "2022-08-16",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": true,
+    "duration_hours": 3.8
+  },
+  {
+    "id": "M-SW-011-02",
+    "equipment_id": "SW-011",
+    "maintenance_date": "2021-11-19",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 2.7
+  },
+  {
+    "id": "M-SW-011-03",
+    "equipment_id": "SW-011",
+    "maintenance_date": "2021-01-24",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 4.9
+  },
+  {
+    "id": "M-SW-011-04",
+    "equipment_id": "SW-011",
+    "maintenance_date": "2020-08-19",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 4.5
+  },
+  {
+    "id": "M-SW-011-05",
+    "equipment_id": "SW-011",
+    "maintenance_date": "2019-11-24",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 3.9
+  },
+  {
+    "id": "M-SW-011-06",
+    "equipment_id": "SW-011",
+    "maintenance_date": "2018-11-25",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 4.5
+  },
+  {
+    "id": "M-FD-012-01",
+    "equipment_id": "FD-012",
+    "maintenance_date": "2023-05-19",
+    "maintenance_type": "repair",
+    "technician": "Sandra Osei",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": false,
+    "duration_hours": 4.2
+  },
+  {
+    "id": "M-FD-012-02",
+    "equipment_id": "FD-012",
+    "maintenance_date": "2022-06-05",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 1.5
+  },
+  {
+    "id": "M-FD-012-03",
+    "equipment_id": "FD-012",
+    "maintenance_date": "2022-02-04",
+    "maintenance_type": "emergency",
+    "technician": "Derek Muller",
+    "notes": "Bypass switching during bushing replacement under contingency.",
+    "issue_found": false,
+    "duration_hours": 1.8
+  },
+  {
+    "id": "M-FD-012-04",
+    "equipment_id": "FD-012",
+    "maintenance_date": "2021-10-12",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-FD-012-05",
+    "equipment_id": "FD-012",
+    "maintenance_date": "2021-03-29",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 5.2
+  },
+  {
+    "id": "M-FD-012-06",
+    "equipment_id": "FD-012",
+    "maintenance_date": "2020-04-19",
+    "maintenance_type": "inspection",
+    "technician": "Anna Kovacs",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 9.2
+  },
+  {
+    "id": "M-FD-013-01",
+    "equipment_id": "FD-013",
+    "maintenance_date": "2022-09-25",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 7.9
+  },
+  {
+    "id": "M-FD-013-02",
+    "equipment_id": "FD-013",
+    "maintenance_date": "2022-06-11",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 2.5
+  },
+  {
+    "id": "M-FD-013-03",
+    "equipment_id": "FD-013",
+    "maintenance_date": "2021-07-22",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 5.2
+  },
+  {
+    "id": "M-FD-014-01",
+    "equipment_id": "FD-014",
+    "maintenance_date": "2023-03-25",
+    "maintenance_type": "repair",
+    "technician": "Derek Muller",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": true,
+    "duration_hours": 6.4
+  },
+  {
+    "id": "M-FD-014-02",
+    "equipment_id": "FD-014",
+    "maintenance_date": "2022-04-29",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 10.1
+  },
+  {
+    "id": "M-FD-014-03",
+    "equipment_id": "FD-014",
+    "maintenance_date": "2022-01-13",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 3.4
+  },
+  {
+    "id": "M-FD-014-04",
+    "equipment_id": "FD-014",
+    "maintenance_date": "2021-05-19",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 8.3
+  },
+  {
+    "id": "M-FD-014-05",
+    "equipment_id": "FD-014",
+    "maintenance_date": "2020-06-21",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 1.9
+  },
+  {
+    "id": "M-TF-014-01",
+    "equipment_id": "TF-014",
+    "maintenance_date": "2022-05-09",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 6.8
+  },
+  {
+    "id": "M-TF-014-02",
+    "equipment_id": "TF-014",
+    "maintenance_date": "2021-09-19",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-TF-014-03",
+    "equipment_id": "TF-014",
+    "maintenance_date": "2021-02-02",
+    "maintenance_type": "repair",
+    "technician": "Jamal Torres",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": false,
+    "duration_hours": 8.7
+  },
+  {
+    "id": "M-TF-014-04",
+    "equipment_id": "TF-014",
+    "maintenance_date": "2020-03-18",
+    "maintenance_type": "emergency",
+    "technician": "Priya Sharma",
+    "notes": "Fuse replacement after downstream fault \u2014 circuit re-energised.",
+    "issue_found": true,
+    "duration_hours": 8.5
+  },
+  {
+    "id": "M-TF-014-05",
+    "equipment_id": "TF-014",
+    "maintenance_date": "2019-05-29",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 2.8
+  },
+  {
+    "id": "M-TF-014-06",
+    "equipment_id": "TF-014",
+    "maintenance_date": "2018-07-06",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": false,
+    "duration_hours": 6.1
+  },
+  {
+    "id": "M-TF-014-07",
+    "equipment_id": "TF-014",
+    "maintenance_date": "2017-11-13",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": true,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-TF-014-08",
+    "equipment_id": "TF-014",
+    "maintenance_date": "2017-05-18",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 3.8
+  },
+  {
+    "id": "M-SS-015-01",
+    "equipment_id": "SS-015",
+    "maintenance_date": "2022-03-20",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 7.0
+  },
+  {
+    "id": "M-SS-015-02",
+    "equipment_id": "SS-015",
+    "maintenance_date": "2021-09-16",
+    "maintenance_type": "emergency",
+    "technician": "Samuel Okonkwo",
+    "notes": "Bypass switching during bushing replacement under contingency.",
+    "issue_found": true,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-SS-015-03",
+    "equipment_id": "SS-015",
+    "maintenance_date": "2020-09-18",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 10.3
+  },
+  {
+    "id": "M-SS-015-04",
+    "equipment_id": "SS-015",
+    "maintenance_date": "2020-01-21",
+    "maintenance_type": "inspection",
+    "technician": "Anna Kovacs",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-SS-015-05",
+    "equipment_id": "SS-015",
+    "maintenance_date": "2019-08-14",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 4.6
+  },
+  {
+    "id": "M-SS-015-06",
+    "equipment_id": "SS-015",
+    "maintenance_date": "2018-11-29",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 7.0
+  },
+  {
+    "id": "M-FD-015-01",
+    "equipment_id": "FD-015",
+    "maintenance_date": "2022-10-28",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 7.5
+  },
+  {
+    "id": "M-FD-015-02",
+    "equipment_id": "FD-015",
+    "maintenance_date": "2021-11-06",
+    "maintenance_type": "repair",
+    "technician": "Jamal Torres",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": true,
+    "duration_hours": 4.8
+  },
+  {
+    "id": "M-FD-015-03",
+    "equipment_id": "FD-015",
+    "maintenance_date": "2021-07-03",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 5.8
+  },
+  {
+    "id": "M-FD-015-04",
+    "equipment_id": "FD-015",
+    "maintenance_date": "2021-01-16",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 7.7
+  },
+  {
+    "id": "M-FD-015-05",
+    "equipment_id": "FD-015",
+    "maintenance_date": "2020-02-20",
+    "maintenance_type": "emergency",
+    "technician": "Li Wei",
+    "notes": "Cable splice replacement after insulation failure. Restored in 4h.",
+    "issue_found": true,
+    "duration_hours": 6.3
+  },
+  {
+    "id": "M-TF-015-01",
+    "equipment_id": "TF-015",
+    "maintenance_date": "2021-07-01",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 7.9
+  },
+  {
+    "id": "M-TF-015-02",
+    "equipment_id": "TF-015",
+    "maintenance_date": "2021-02-03",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 10.1
+  },
+  {
+    "id": "M-TF-015-03",
+    "equipment_id": "TF-015",
+    "maintenance_date": "2020-09-27",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": true,
+    "duration_hours": 3.3
+  },
+  {
+    "id": "M-TF-015-04",
+    "equipment_id": "TF-015",
+    "maintenance_date": "2020-05-24",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 5.5
+  },
+  {
+    "id": "M-TF-015-05",
+    "equipment_id": "TF-015",
+    "maintenance_date": "2019-10-07",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": true,
+    "duration_hours": 2.9
+  },
+  {
+    "id": "M-TF-016-01",
+    "equipment_id": "TF-016",
+    "maintenance_date": "2022-06-05",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 5.7
+  },
+  {
+    "id": "M-TF-016-02",
+    "equipment_id": "TF-016",
+    "maintenance_date": "2021-10-06",
+    "maintenance_type": "repair",
+    "technician": "Connor O'Brien",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": true,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-TF-016-03",
+    "equipment_id": "TF-016",
+    "maintenance_date": "2021-02-16",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 7.5
+  },
+  {
+    "id": "M-TF-016-04",
+    "equipment_id": "TF-016",
+    "maintenance_date": "2020-06-20",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 9.1
+  },
+  {
+    "id": "M-TF-017-01",
+    "equipment_id": "TF-017",
+    "maintenance_date": "2023-01-30",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 3.5
+  },
+  {
+    "id": "M-TF-017-02",
+    "equipment_id": "TF-017",
+    "maintenance_date": "2022-07-29",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 2.9
+  },
+  {
+    "id": "M-TF-017-03",
+    "equipment_id": "TF-017",
+    "maintenance_date": "2022-04-05",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 3.4
+  },
+  {
+    "id": "M-TF-017-04",
+    "equipment_id": "TF-017",
+    "maintenance_date": "2021-05-31",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-TF-017-05",
+    "equipment_id": "TF-017",
+    "maintenance_date": "2020-11-03",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 7.4
+  },
+  {
+    "id": "M-SW-012-01",
+    "equipment_id": "SW-012",
+    "maintenance_date": "2023-06-17",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 3.4
+  },
+  {
+    "id": "M-SW-012-02",
+    "equipment_id": "SW-012",
+    "maintenance_date": "2022-11-01",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-SW-012-03",
+    "equipment_id": "SW-012",
+    "maintenance_date": "2022-07-28",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 7.4
+  },
+  {
+    "id": "M-SW-012-04",
+    "equipment_id": "SW-012",
+    "maintenance_date": "2022-02-17",
+    "maintenance_type": "repair",
+    "technician": "Yuki Tanaka",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 4.8
+  },
+  {
+    "id": "M-SW-012-05",
+    "equipment_id": "SW-012",
+    "maintenance_date": "2021-10-16",
+    "maintenance_type": "emergency",
+    "technician": "Marcus Webb",
+    "notes": "Cable splice replacement after insulation failure. Restored in 4h.",
+    "issue_found": false,
+    "duration_hours": 5.1
+  },
+  {
+    "id": "M-SW-012-06",
+    "equipment_id": "SW-012",
+    "maintenance_date": "2021-06-23",
+    "maintenance_type": "repair",
+    "technician": "Priya Sharma",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": false,
+    "duration_hours": 3.0
+  },
+  {
+    "id": "M-SW-012-07",
+    "equipment_id": "SW-012",
+    "maintenance_date": "2020-09-08",
+    "maintenance_type": "repair",
+    "technician": "Yuki Tanaka",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "M-SW-012-08",
+    "equipment_id": "SW-012",
+    "maintenance_date": "2020-02-27",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 3.9
+  },
+  {
+    "id": "M-SW-013-01",
+    "equipment_id": "SW-013",
+    "maintenance_date": "2023-05-05",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": true,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-SW-013-02",
+    "equipment_id": "SW-013",
+    "maintenance_date": "2022-05-11",
+    "maintenance_type": "repair",
+    "technician": "Yuki Tanaka",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": false,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-SW-013-03",
+    "equipment_id": "SW-013",
+    "maintenance_date": "2021-06-28",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 6.9
+  },
+  {
+    "id": "M-SW-013-04",
+    "equipment_id": "SW-013",
+    "maintenance_date": "2021-03-08",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-SW-013-05",
+    "equipment_id": "SW-013",
+    "maintenance_date": "2020-07-19",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-SW-013-06",
+    "equipment_id": "SW-013",
+    "maintenance_date": "2019-12-25",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-FD-016-01",
+    "equipment_id": "FD-016",
+    "maintenance_date": "2023-03-08",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 6.6
+  },
+  {
+    "id": "M-FD-016-02",
+    "equipment_id": "FD-016",
+    "maintenance_date": "2022-04-20",
+    "maintenance_type": "inspection",
+    "technician": "Jamal Torres",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 1.9
+  },
+  {
+    "id": "M-FD-016-03",
+    "equipment_id": "FD-016",
+    "maintenance_date": "2021-11-26",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 5.5
+  },
+  {
+    "id": "M-FD-016-04",
+    "equipment_id": "FD-016",
+    "maintenance_date": "2021-02-12",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 2.7
+  },
+  {
+    "id": "M-FD-016-05",
+    "equipment_id": "FD-016",
+    "maintenance_date": "2020-05-07",
+    "maintenance_type": "emergency",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Cable splice replacement after insulation failure. Restored in 4h.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-TF-018-01",
+    "equipment_id": "TF-018",
+    "maintenance_date": "2023-06-19",
+    "maintenance_type": "repair",
+    "technician": "Derek Muller",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-TF-018-02",
+    "equipment_id": "TF-018",
+    "maintenance_date": "2022-06-25",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-TF-018-03",
+    "equipment_id": "TF-018",
+    "maintenance_date": "2021-07-26",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 1.1
+  },
+  {
+    "id": "M-TF-018-04",
+    "equipment_id": "TF-018",
+    "maintenance_date": "2021-03-29",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 3.8
+  },
+  {
+    "id": "M-TF-018-05",
+    "equipment_id": "TF-018",
+    "maintenance_date": "2020-06-03",
+    "maintenance_type": "repair",
+    "technician": "Yuki Tanaka",
+    "notes": "Replaced faulty temperature indicator relay.",
+    "issue_found": false,
+    "duration_hours": 5.1
+  },
+  {
+    "id": "M-TF-018-06",
+    "equipment_id": "TF-018",
+    "maintenance_date": "2020-01-17",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 2.3
+  },
+  {
+    "id": "M-SS-016-01",
+    "equipment_id": "SS-016",
+    "maintenance_date": "2022-05-29",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "M-SS-016-02",
+    "equipment_id": "SS-016",
+    "maintenance_date": "2021-09-10",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 4.5
+  },
+  {
+    "id": "M-SS-016-03",
+    "equipment_id": "SS-016",
+    "maintenance_date": "2021-02-15",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "M-SS-016-04",
+    "equipment_id": "SS-016",
+    "maintenance_date": "2020-08-18",
+    "maintenance_type": "repair",
+    "technician": "Samuel Okonkwo",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 3.0
+  },
+  {
+    "id": "M-SS-016-05",
+    "equipment_id": "SS-016",
+    "maintenance_date": "2019-08-20",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 9.5
+  },
+  {
+    "id": "M-SS-016-06",
+    "equipment_id": "SS-016",
+    "maintenance_date": "2019-03-17",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 9.4
+  },
+  {
+    "id": "M-FD-017-01",
+    "equipment_id": "FD-017",
+    "maintenance_date": "2023-01-27",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 1.2
+  },
+  {
+    "id": "M-FD-017-02",
+    "equipment_id": "FD-017",
+    "maintenance_date": "2022-05-26",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": false,
+    "duration_hours": 6.7
+  },
+  {
+    "id": "M-FD-017-03",
+    "equipment_id": "FD-017",
+    "maintenance_date": "2021-11-23",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": true,
+    "duration_hours": 7.1
+  },
+  {
+    "id": "M-FD-017-04",
+    "equipment_id": "FD-017",
+    "maintenance_date": "2021-03-04",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-FD-017-05",
+    "equipment_id": "FD-017",
+    "maintenance_date": "2020-10-13",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-FD-017-06",
+    "equipment_id": "FD-017",
+    "maintenance_date": "2020-05-29",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 7.4
+  },
+  {
+    "id": "M-FD-017-07",
+    "equipment_id": "FD-017",
+    "maintenance_date": "2019-06-05",
+    "maintenance_type": "inspection",
+    "technician": "Jamal Torres",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-FD-017-08",
+    "equipment_id": "FD-017",
+    "maintenance_date": "2018-06-06",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 3.8
+  },
+  {
+    "id": "M-SW-014-01",
+    "equipment_id": "SW-014",
+    "maintenance_date": "2022-11-23",
+    "maintenance_type": "inspection",
+    "technician": "Anna Kovacs",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 5.2
+  },
+  {
+    "id": "M-SW-014-02",
+    "equipment_id": "SW-014",
+    "maintenance_date": "2022-03-06",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-SW-014-03",
+    "equipment_id": "SW-014",
+    "maintenance_date": "2021-04-28",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-SW-014-04",
+    "equipment_id": "SW-014",
+    "maintenance_date": "2020-08-26",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-SW-014-05",
+    "equipment_id": "SW-014",
+    "maintenance_date": "2020-02-11",
+    "maintenance_type": "inspection",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": true,
+    "duration_hours": 1.4
+  },
+  {
+    "id": "M-SW-014-06",
+    "equipment_id": "SW-014",
+    "maintenance_date": "2019-09-22",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 4.2
+  },
+  {
+    "id": "M-SS-017-01",
+    "equipment_id": "SS-017",
+    "maintenance_date": "2022-11-23",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 1.4
+  },
+  {
+    "id": "M-SS-017-02",
+    "equipment_id": "SS-017",
+    "maintenance_date": "2022-08-13",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 6.9
+  },
+  {
+    "id": "M-SS-017-03",
+    "equipment_id": "SS-017",
+    "maintenance_date": "2021-08-25",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 7.5
+  },
+  {
+    "id": "M-SS-017-04",
+    "equipment_id": "SS-017",
+    "maintenance_date": "2021-01-29",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": false,
+    "duration_hours": 12.5
+  },
+  {
+    "id": "M-SS-017-05",
+    "equipment_id": "SS-017",
+    "maintenance_date": "2020-09-19",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 6.7
+  },
+  {
+    "id": "M-TF-019-01",
+    "equipment_id": "TF-019",
+    "maintenance_date": "2022-08-25",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 5.6
+  },
+  {
+    "id": "M-TF-019-02",
+    "equipment_id": "TF-019",
+    "maintenance_date": "2022-01-31",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 6.6
+  },
+  {
+    "id": "M-TF-019-03",
+    "equipment_id": "TF-019",
+    "maintenance_date": "2021-07-24",
+    "maintenance_type": "repair",
+    "technician": "Jamal Torres",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": false,
+    "duration_hours": 2.1
+  },
+  {
+    "id": "M-TF-020-01",
+    "equipment_id": "TF-020",
+    "maintenance_date": "2022-05-22",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-TF-020-02",
+    "equipment_id": "TF-020",
+    "maintenance_date": "2021-08-25",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-TF-020-03",
+    "equipment_id": "TF-020",
+    "maintenance_date": "2021-05-13",
+    "maintenance_type": "emergency",
+    "technician": "Carlos Reyes",
+    "notes": "Emergency oil top-up following minor leak identified during patrol.",
+    "issue_found": true,
+    "duration_hours": 1.1
+  },
+  {
+    "id": "M-TF-020-04",
+    "equipment_id": "TF-020",
+    "maintenance_date": "2020-06-30",
+    "maintenance_type": "emergency",
+    "technician": "Carlos Reyes",
+    "notes": "Bypass switching during bushing replacement under contingency.",
+    "issue_found": true,
+    "duration_hours": 2.8
+  },
+  {
+    "id": "M-TF-020-05",
+    "equipment_id": "TF-020",
+    "maintenance_date": "2020-02-09",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-TF-020-06",
+    "equipment_id": "TF-020",
+    "maintenance_date": "2019-07-30",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 1.8
+  },
+  {
+    "id": "M-TF-020-07",
+    "equipment_id": "TF-020",
+    "maintenance_date": "2018-09-21",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 5.4
+  },
+  {
+    "id": "M-TF-020-08",
+    "equipment_id": "TF-020",
+    "maintenance_date": "2017-12-15",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 5.8
+  },
+  {
+    "id": "M-SS-018-01",
+    "equipment_id": "SS-018",
+    "maintenance_date": "2022-05-02",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 6.2
+  },
+  {
+    "id": "M-SS-018-02",
+    "equipment_id": "SS-018",
+    "maintenance_date": "2021-08-07",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Replaced faulty temperature indicator relay.",
+    "issue_found": true,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SS-018-03",
+    "equipment_id": "SS-018",
+    "maintenance_date": "2021-01-05",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": true,
+    "duration_hours": 6.2
+  },
+  {
+    "id": "M-SS-018-04",
+    "equipment_id": "SS-018",
+    "maintenance_date": "2020-08-21",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 2.1
+  },
+  {
+    "id": "M-SW-015-01",
+    "equipment_id": "SW-015",
+    "maintenance_date": "2022-01-01",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SW-015-02",
+    "equipment_id": "SW-015",
+    "maintenance_date": "2021-04-18",
+    "maintenance_type": "repair",
+    "technician": "Jamal Torres",
+    "notes": "Replaced faulty temperature indicator relay.",
+    "issue_found": false,
+    "duration_hours": 3.8
+  },
+  {
+    "id": "M-SW-015-03",
+    "equipment_id": "SW-015",
+    "maintenance_date": "2020-11-11",
+    "maintenance_type": "inspection",
+    "technician": "Connor O'Brien",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 1.3
+  },
+  {
+    "id": "M-SW-015-04",
+    "equipment_id": "SW-015",
+    "maintenance_date": "2019-11-30",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": true,
+    "duration_hours": 3.0
+  },
+  {
+    "id": "M-SW-015-05",
+    "equipment_id": "SW-015",
+    "maintenance_date": "2019-03-06",
+    "maintenance_type": "repair",
+    "technician": "Samuel Okonkwo",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 5.7
+  },
+  {
+    "id": "M-SW-015-06",
+    "equipment_id": "SW-015",
+    "maintenance_date": "2018-07-03",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 6.1
+  },
+  {
+    "id": "M-TF-021-01",
+    "equipment_id": "TF-021",
+    "maintenance_date": "2021-09-12",
+    "maintenance_type": "repair",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": false,
+    "duration_hours": 5.5
+  },
+  {
+    "id": "M-TF-021-02",
+    "equipment_id": "TF-021",
+    "maintenance_date": "2020-09-22",
+    "maintenance_type": "repair",
+    "technician": "Sandra Osei",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": false,
+    "duration_hours": 6.4
+  },
+  {
+    "id": "M-TF-021-03",
+    "equipment_id": "TF-021",
+    "maintenance_date": "2020-03-31",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 4.8
+  },
+  {
+    "id": "M-TF-021-04",
+    "equipment_id": "TF-021",
+    "maintenance_date": "2019-06-28",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": true,
+    "duration_hours": 8.9
+  },
+  {
+    "id": "M-TF-021-05",
+    "equipment_id": "TF-021",
+    "maintenance_date": "2018-07-22",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 6.6
+  },
+  {
+    "id": "M-TF-021-06",
+    "equipment_id": "TF-021",
+    "maintenance_date": "2017-12-09",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 1.8
+  },
+  {
+    "id": "M-FD-018-01",
+    "equipment_id": "FD-018",
+    "maintenance_date": "2023-02-18",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 6.8
+  },
+  {
+    "id": "M-FD-018-02",
+    "equipment_id": "FD-018",
+    "maintenance_date": "2022-03-14",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 4.4
+  },
+  {
+    "id": "M-FD-018-03",
+    "equipment_id": "FD-018",
+    "maintenance_date": "2021-06-17",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 7.7
+  },
+  {
+    "id": "M-FD-018-04",
+    "equipment_id": "FD-018",
+    "maintenance_date": "2021-01-12",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-FD-019-01",
+    "equipment_id": "FD-019",
+    "maintenance_date": "2023-07-14",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 7.6
+  },
+  {
+    "id": "M-FD-019-02",
+    "equipment_id": "FD-019",
+    "maintenance_date": "2022-10-03",
+    "maintenance_type": "inspection",
+    "technician": "Jamal Torres",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 6.8
+  },
+  {
+    "id": "M-FD-019-03",
+    "equipment_id": "FD-019",
+    "maintenance_date": "2022-05-11",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 9.3
+  },
+  {
+    "id": "M-FD-019-04",
+    "equipment_id": "FD-019",
+    "maintenance_date": "2021-11-24",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 8.9
+  },
+  {
+    "id": "M-FD-019-05",
+    "equipment_id": "FD-019",
+    "maintenance_date": "2021-05-13",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 4.1
+  },
+  {
+    "id": "M-FD-019-06",
+    "equipment_id": "FD-019",
+    "maintenance_date": "2020-07-23",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 10.5
+  },
+  {
+    "id": "M-FD-019-07",
+    "equipment_id": "FD-019",
+    "maintenance_date": "2020-03-12",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-TF-022-01",
+    "equipment_id": "TF-022",
+    "maintenance_date": "2022-11-20",
+    "maintenance_type": "repair",
+    "technician": "Derek Muller",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 4.3
+  },
+  {
+    "id": "M-TF-022-02",
+    "equipment_id": "TF-022",
+    "maintenance_date": "2021-12-24",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 7.8
+  },
+  {
+    "id": "M-TF-022-03",
+    "equipment_id": "TF-022",
+    "maintenance_date": "2021-08-23",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 7.9
+  },
+  {
+    "id": "M-TF-022-04",
+    "equipment_id": "TF-022",
+    "maintenance_date": "2020-08-31",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Replaced tripped overcurrent relay after downstream fault clearance.",
+    "issue_found": false,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-SW-016-01",
+    "equipment_id": "SW-016",
+    "maintenance_date": "2023-05-19",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 7.3
+  },
+  {
+    "id": "M-SW-016-02",
+    "equipment_id": "SW-016",
+    "maintenance_date": "2022-08-03",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 4.6
+  },
+  {
+    "id": "M-SW-016-03",
+    "equipment_id": "SW-016",
+    "maintenance_date": "2022-01-30",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 1.9
+  },
+  {
+    "id": "M-SW-016-04",
+    "equipment_id": "SW-016",
+    "maintenance_date": "2021-09-29",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 6.0
+  },
+  {
+    "id": "M-SW-016-05",
+    "equipment_id": "SW-016",
+    "maintenance_date": "2021-04-29",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 1.4
+  },
+  {
+    "id": "M-SW-016-06",
+    "equipment_id": "SW-016",
+    "maintenance_date": "2021-01-18",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Protection relay functional test completed. All trip signals verified.",
+    "issue_found": false,
+    "duration_hours": 6.7
+  },
+  {
+    "id": "M-SW-017-01",
+    "equipment_id": "SW-017",
+    "maintenance_date": "2022-08-06",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 2.9
+  },
+  {
+    "id": "M-SW-017-02",
+    "equipment_id": "SW-017",
+    "maintenance_date": "2022-05-01",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 7.1
+  },
+  {
+    "id": "M-SW-017-03",
+    "equipment_id": "SW-017",
+    "maintenance_date": "2021-11-26",
+    "maintenance_type": "inspection",
+    "technician": "Sandra Osei",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 6.8
+  },
+  {
+    "id": "M-SW-017-04",
+    "equipment_id": "SW-017",
+    "maintenance_date": "2021-06-19",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Rewound and retested control panel terminal connections.",
+    "issue_found": false,
+    "duration_hours": 6.7
+  },
+  {
+    "id": "M-SW-017-05",
+    "equipment_id": "SW-017",
+    "maintenance_date": "2020-12-14",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 7.4
+  },
+  {
+    "id": "M-SW-017-06",
+    "equipment_id": "SW-017",
+    "maintenance_date": "2020-02-17",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-SW-017-07",
+    "equipment_id": "SW-017",
+    "maintenance_date": "2019-05-10",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 4.6
+  },
+  {
+    "id": "M-SW-017-08",
+    "equipment_id": "SW-017",
+    "maintenance_date": "2018-08-07",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": false,
+    "duration_hours": 6.4
+  },
+  {
+    "id": "M-SS-019-01",
+    "equipment_id": "SS-019",
+    "maintenance_date": "2023-05-17",
+    "maintenance_type": "emergency",
+    "technician": "Jamal Torres",
+    "notes": "Fuse replacement after downstream fault \u2014 circuit re-energised.",
+    "issue_found": false,
+    "duration_hours": 9.5
+  },
+  {
+    "id": "M-SS-019-02",
+    "equipment_id": "SS-019",
+    "maintenance_date": "2022-07-10",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-SS-019-03",
+    "equipment_id": "SS-019",
+    "maintenance_date": "2021-08-04",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": true,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-SS-019-04",
+    "equipment_id": "SS-019",
+    "maintenance_date": "2021-04-20",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 3.5
+  },
+  {
+    "id": "M-SS-019-05",
+    "equipment_id": "SS-019",
+    "maintenance_date": "2021-01-20",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 7.6
+  },
+  {
+    "id": "M-SS-019-06",
+    "equipment_id": "SS-019",
+    "maintenance_date": "2020-06-16",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Oil sample analysis \u2014 dielectric strength within spec.",
+    "issue_found": true,
+    "duration_hours": 8.4
+  },
+  {
+    "id": "M-SS-019-07",
+    "equipment_id": "SS-019",
+    "maintenance_date": "2020-02-03",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 4.8
+  },
+  {
+    "id": "M-SW-018-01",
+    "equipment_id": "SW-018",
+    "maintenance_date": "2023-05-21",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 4.3
+  },
+  {
+    "id": "M-SW-018-02",
+    "equipment_id": "SW-018",
+    "maintenance_date": "2022-09-06",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": true,
+    "duration_hours": 5.9
+  },
+  {
+    "id": "M-SW-018-03",
+    "equipment_id": "SW-018",
+    "maintenance_date": "2021-09-09",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 6.2
+  },
+  {
+    "id": "M-SW-018-04",
+    "equipment_id": "SW-018",
+    "maintenance_date": "2021-05-14",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 4.5
+  },
+  {
+    "id": "M-FD-020-01",
+    "equipment_id": "FD-020",
+    "maintenance_date": "2022-07-17",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": false,
+    "duration_hours": 7.7
+  },
+  {
+    "id": "M-FD-020-02",
+    "equipment_id": "FD-020",
+    "maintenance_date": "2021-10-20",
+    "maintenance_type": "routine",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 3.1
+  },
+  {
+    "id": "M-FD-020-03",
+    "equipment_id": "FD-020",
+    "maintenance_date": "2020-12-17",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 2.8
+  },
+  {
+    "id": "M-FD-020-04",
+    "equipment_id": "FD-020",
+    "maintenance_date": "2020-06-01",
+    "maintenance_type": "emergency",
+    "technician": "Derek Muller",
+    "notes": "Cable splice replacement after insulation failure. Restored in 4h.",
+    "issue_found": false,
+    "duration_hours": 7.5
+  },
+  {
+    "id": "M-FD-020-05",
+    "equipment_id": "FD-020",
+    "maintenance_date": "2019-10-25",
+    "maintenance_type": "emergency",
+    "technician": "Priya Sharma",
+    "notes": "Fuse replacement after downstream fault \u2014 circuit re-energised.",
+    "issue_found": true,
+    "duration_hours": 5.6
+  },
+  {
+    "id": "M-SW-019-01",
+    "equipment_id": "SW-019",
+    "maintenance_date": "2022-08-24",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Cleaned and re-greased tap changer mechanism.",
+    "issue_found": false,
+    "duration_hours": 1.8
+  },
+  {
+    "id": "M-SW-019-02",
+    "equipment_id": "SW-019",
+    "maintenance_date": "2022-02-26",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 1.3
+  },
+  {
+    "id": "M-SW-019-03",
+    "equipment_id": "SW-019",
+    "maintenance_date": "2021-03-05",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 6.9
+  },
+  {
+    "id": "M-SW-019-04",
+    "equipment_id": "SW-019",
+    "maintenance_date": "2020-10-05",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": false,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-SW-019-05",
+    "equipment_id": "SW-019",
+    "maintenance_date": "2020-02-14",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 5.1
+  },
+  {
+    "id": "M-SW-019-06",
+    "equipment_id": "SW-019",
+    "maintenance_date": "2019-05-30",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": true,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-SW-019-07",
+    "equipment_id": "SW-019",
+    "maintenance_date": "2018-07-04",
+    "maintenance_type": "repair",
+    "technician": "Marcus Webb",
+    "notes": "Repaired breached cable duct insulation \u2014 new heat-shrink sleeve applied.",
+    "issue_found": true,
+    "duration_hours": 7.4
+  },
+  {
+    "id": "M-SW-019-08",
+    "equipment_id": "SW-019",
+    "maintenance_date": "2018-02-23",
+    "maintenance_type": "inspection",
+    "technician": "Priya Sharma",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": true,
+    "duration_hours": 2.1
+  },
+  {
+    "id": "M-TF-023-01",
+    "equipment_id": "TF-023",
+    "maintenance_date": "2022-05-30",
+    "maintenance_type": "emergency",
+    "technician": "Jamal Torres",
+    "notes": "Emergency oil top-up following minor leak identified during patrol.",
+    "issue_found": true,
+    "duration_hours": 4.1
+  },
+  {
+    "id": "M-TF-023-02",
+    "equipment_id": "TF-023",
+    "maintenance_date": "2021-09-05",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 6.3
+  },
+  {
+    "id": "M-TF-023-03",
+    "equipment_id": "TF-023",
+    "maintenance_date": "2020-09-08",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": true,
+    "duration_hours": 7.7
+  },
+  {
+    "id": "M-TF-023-04",
+    "equipment_id": "TF-023",
+    "maintenance_date": "2020-02-12",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": true,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "M-TF-023-05",
+    "equipment_id": "TF-023",
+    "maintenance_date": "2019-09-23",
+    "maintenance_type": "repair",
+    "technician": "Carlos Reyes",
+    "notes": "Replaced oil conservator breather silica gel \u2014 previous material saturated.",
+    "issue_found": true,
+    "duration_hours": 5.9
+  },
+  {
+    "id": "M-TF-023-06",
+    "equipment_id": "TF-023",
+    "maintenance_date": "2019-03-19",
+    "maintenance_type": "emergency",
+    "technician": "Yuki Tanaka",
+    "notes": "Emergency oil top-up following minor leak identified during patrol.",
+    "issue_found": false,
+    "duration_hours": 7.3
+  },
+  {
+    "id": "M-TF-023-07",
+    "equipment_id": "TF-023",
+    "maintenance_date": "2018-05-15",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": false,
+    "duration_hours": 4.5
+  },
+  {
+    "id": "M-TF-023-08",
+    "equipment_id": "TF-023",
+    "maintenance_date": "2017-10-19",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": false,
+    "duration_hours": 8.6
+  },
+  {
+    "id": "M-SW-020-01",
+    "equipment_id": "SW-020",
+    "maintenance_date": "2022-03-20",
+    "maintenance_type": "emergency",
+    "technician": "Fatima Al-Rashid",
+    "notes": "Fuse replacement after downstream fault \u2014 circuit re-energised.",
+    "issue_found": true,
+    "duration_hours": 2.4
+  },
+  {
+    "id": "M-SW-020-02",
+    "equipment_id": "SW-020",
+    "maintenance_date": "2021-09-29",
+    "maintenance_type": "routine",
+    "technician": "Yuki Tanaka",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 9.2
+  },
+  {
+    "id": "M-SW-020-03",
+    "equipment_id": "SW-020",
+    "maintenance_date": "2021-03-25",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 9.0
+  },
+  {
+    "id": "M-SW-020-04",
+    "equipment_id": "SW-020",
+    "maintenance_date": "2020-08-22",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 3.3
+  },
+  {
+    "id": "M-SW-020-05",
+    "equipment_id": "SW-020",
+    "maintenance_date": "2020-04-05",
+    "maintenance_type": "inspection",
+    "technician": "Connor O'Brien",
+    "notes": "Bushing condition assessment. Surface tracking noted \u2014 cleaning applied.",
+    "issue_found": true,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-SW-020-06",
+    "equipment_id": "SW-020",
+    "maintenance_date": "2019-11-26",
+    "maintenance_type": "repair",
+    "technician": "Li Wei",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": true,
+    "duration_hours": 4.3
+  },
+  {
+    "id": "M-SW-020-07",
+    "equipment_id": "SW-020",
+    "maintenance_date": "2019-01-05",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 10.4
+  },
+  {
+    "id": "M-TF-024-01",
+    "equipment_id": "TF-024",
+    "maintenance_date": "2023-03-01",
+    "maintenance_type": "routine",
+    "technician": "Derek Muller",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 3.2
+  },
+  {
+    "id": "M-TF-024-02",
+    "equipment_id": "TF-024",
+    "maintenance_date": "2022-03-28",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 2.6
+  },
+  {
+    "id": "M-TF-024-03",
+    "equipment_id": "TF-024",
+    "maintenance_date": "2021-07-08",
+    "maintenance_type": "inspection",
+    "technician": "Marcus Webb",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 3.6
+  },
+  {
+    "id": "M-TF-025-01",
+    "equipment_id": "TF-025",
+    "maintenance_date": "2022-11-16",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 3.3
+  },
+  {
+    "id": "M-TF-025-02",
+    "equipment_id": "TF-025",
+    "maintenance_date": "2022-05-24",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Earthing system resistance test: 0.4 \u03a9 (within 1 \u03a9 limit).",
+    "issue_found": true,
+    "duration_hours": 3.1
+  },
+  {
+    "id": "M-TF-025-03",
+    "equipment_id": "TF-025",
+    "maintenance_date": "2021-10-01",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 1.7
+  },
+  {
+    "id": "M-TF-025-04",
+    "equipment_id": "TF-025",
+    "maintenance_date": "2021-03-28",
+    "maintenance_type": "routine",
+    "technician": "Carlos Reyes",
+    "notes": "Control wiring continuity checks completed satisfactorily.",
+    "issue_found": true,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-TF-025-05",
+    "equipment_id": "TF-025",
+    "maintenance_date": "2020-12-04",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 9.6
+  },
+  {
+    "id": "M-TF-025-06",
+    "equipment_id": "TF-025",
+    "maintenance_date": "2019-12-27",
+    "maintenance_type": "repair",
+    "technician": "Anna Kovacs",
+    "notes": "Replaced degraded gasket on main tank inspection cover.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-SW-021-01",
+    "equipment_id": "SW-021",
+    "maintenance_date": "2021-08-24",
+    "maintenance_type": "inspection",
+    "technician": "Jamal Torres",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": false,
+    "duration_hours": 9.0
+  },
+  {
+    "id": "M-SW-021-02",
+    "equipment_id": "SW-021",
+    "maintenance_date": "2021-01-07",
+    "maintenance_type": "emergency",
+    "technician": "Marcus Webb",
+    "notes": "Fuse replacement after downstream fault \u2014 circuit re-energised.",
+    "issue_found": false,
+    "duration_hours": 5.1
+  },
+  {
+    "id": "M-SW-021-03",
+    "equipment_id": "SW-021",
+    "maintenance_date": "2020-04-08",
+    "maintenance_type": "routine",
+    "technician": "Samuel Okonkwo",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": false,
+    "duration_hours": 1.2
+  },
+  {
+    "id": "M-SW-021-04",
+    "equipment_id": "SW-021",
+    "maintenance_date": "2019-07-28",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": true,
+    "duration_hours": 4.3
+  },
+  {
+    "id": "M-SW-021-05",
+    "equipment_id": "SW-021",
+    "maintenance_date": "2019-01-03",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Detailed internal inspection. Corrosion found on terminal board \u2014 treated.",
+    "issue_found": true,
+    "duration_hours": 9.8
+  },
+  {
+    "id": "M-SW-021-06",
+    "equipment_id": "SW-021",
+    "maintenance_date": "2018-06-01",
+    "maintenance_type": "inspection",
+    "technician": "Samuel Okonkwo",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": true,
+    "duration_hours": 6.0
+  },
+  {
+    "id": "M-TF-026-01",
+    "equipment_id": "TF-026",
+    "maintenance_date": "2022-07-20",
+    "maintenance_type": "inspection",
+    "technician": "Li Wei",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 4.7
+  },
+  {
+    "id": "M-TF-026-02",
+    "equipment_id": "TF-026",
+    "maintenance_date": "2022-02-05",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 7.1
+  },
+  {
+    "id": "M-TF-026-03",
+    "equipment_id": "TF-026",
+    "maintenance_date": "2021-06-25",
+    "maintenance_type": "routine",
+    "technician": "Anna Kovacs",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": true,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-TF-026-04",
+    "equipment_id": "TF-026",
+    "maintenance_date": "2021-02-14",
+    "maintenance_type": "inspection",
+    "technician": "Jamal Torres",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": true,
+    "duration_hours": 9.1
+  },
+  {
+    "id": "M-TF-026-05",
+    "equipment_id": "TF-026",
+    "maintenance_date": "2020-06-16",
+    "maintenance_type": "routine",
+    "technician": "Sandra Osei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 5.6
+  },
+  {
+    "id": "M-TF-026-06",
+    "equipment_id": "TF-026",
+    "maintenance_date": "2019-08-23",
+    "maintenance_type": "routine",
+    "technician": "Jamal Torres",
+    "notes": "Cooling fans and radiators cleaned. Airflow confirmed.",
+    "issue_found": true,
+    "duration_hours": 6.0
+  },
+  {
+    "id": "M-TF-026-07",
+    "equipment_id": "TF-026",
+    "maintenance_date": "2019-01-17",
+    "maintenance_type": "inspection",
+    "technician": "Carlos Reyes",
+    "notes": "Tap changer contact wear measured. Within acceptable limits.",
+    "issue_found": true,
+    "duration_hours": 10.5
+  },
+  {
+    "id": "M-TF-026-08",
+    "equipment_id": "TF-026",
+    "maintenance_date": "2018-07-23",
+    "maintenance_type": "routine",
+    "technician": "Li Wei",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": false,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-TF-027-01",
+    "equipment_id": "TF-027",
+    "maintenance_date": "2022-05-14",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "All relay settings verified against protection schedule.",
+    "issue_found": false,
+    "duration_hours": 4.0
+  },
+  {
+    "id": "M-TF-027-02",
+    "equipment_id": "TF-027",
+    "maintenance_date": "2021-07-05",
+    "maintenance_type": "routine",
+    "technician": "Priya Sharma",
+    "notes": "Visual inspection complete. No anomalies observed.",
+    "issue_found": false,
+    "duration_hours": 7.8
+  },
+  {
+    "id": "M-TF-027-03",
+    "equipment_id": "TF-027",
+    "maintenance_date": "2020-12-02",
+    "maintenance_type": "inspection",
+    "technician": "Derek Muller",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": true,
+    "duration_hours": 3.5
+  },
+  {
+    "id": "M-TF-027-04",
+    "equipment_id": "TF-027",
+    "maintenance_date": "2020-01-15",
+    "maintenance_type": "routine",
+    "technician": "Marcus Webb",
+    "notes": "Insulation resistance test passed. Recorded in asset register.",
+    "issue_found": true,
+    "duration_hours": 1.0
+  },
+  {
+    "id": "M-TF-027-05",
+    "equipment_id": "TF-027",
+    "maintenance_date": "2019-03-08",
+    "maintenance_type": "inspection",
+    "technician": "Connor O'Brien",
+    "notes": "Dissolved gas analysis performed. H2 slightly elevated \u2014 monitor closely.",
+    "issue_found": false,
+    "duration_hours": 5.3
+  },
+  {
+    "id": "M-TF-027-06",
+    "equipment_id": "TF-027",
+    "maintenance_date": "2018-08-13",
+    "maintenance_type": "inspection",
+    "technician": "Yuki Tanaka",
+    "notes": "Infrared thermography completed. Terminal connection running 8\u00b0C above ambient.",
+    "issue_found": false,
+    "duration_hours": 5.6
+  },
+  {
+    "id": "M-TF-027-07",
+    "equipment_id": "TF-027",
+    "maintenance_date": "2018-01-30",
+    "maintenance_type": "routine",
+    "technician": "Connor O'Brien",
+    "notes": "Thermal imaging scan \u2014 no hotspots detected.",
+    "issue_found": false,
+    "duration_hours": 2.0
+  },
+  {
+    "id": "M-TF-027-08",
+    "equipment_id": "TF-027",
+    "maintenance_date": "2017-02-03",
+    "maintenance_type": "emergency",
+    "technician": "Carlos Reyes",
+    "notes": "Emergency restoration following thermal trip. Root cause: sustained overload.",
+    "issue_found": true,
+    "duration_hours": 4.1
+  }
+]

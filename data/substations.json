@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SUB-Z1-A",
+    "name": "Eastfield Primary",
+    "latitude": 40.712,
+    "longitude": -73.985
+  },
+  {
+    "id": "SUB-Z1-B",
+    "name": "Riverside Secondary",
+    "latitude": 40.695,
+    "longitude": -73.954
+  },
+  {
+    "id": "SUB-Z1-C",
+    "name": "Harbor Distribution",
+    "latitude": 40.728,
+    "longitude": -73.968
+  },
+  {
+    "id": "SUB-Z2-A",
+    "name": "Westgate Primary",
+    "latitude": 40.735,
+    "longitude": -74.12
+  },
+  {
+    "id": "SUB-Z2-B",
+    "name": "Oakwood Secondary",
+    "latitude": 40.718,
+    "longitude": -74.145
+  },
+  {
+    "id": "SUB-Z2-C",
+    "name": "Lakeview Distribution",
+    "latitude": 40.752,
+    "longitude": -74.098
+  },
+  {
+    "id": "SUB-Z3-A",
+    "name": "North Alpha Primary",
+    "latitude": 40.82,
+    "longitude": -73.92
+  },
+  {
+    "id": "SUB-Z3-B",
+    "name": "Highland Secondary",
+    "latitude": 40.845,
+    "longitude": -73.905
+  },
+  {
+    "id": "SUB-Z3-C",
+    "name": "Ridgeline Distribution",
+    "latitude": 40.81,
+    "longitude": -73.938
+  },
+  {
+    "id": "SUB-Z4-A",
+    "name": "Southfield Primary",
+    "latitude": 40.63,
+    "longitude": -74.01
+  },
+  {
+    "id": "SUB-Z4-B",
+    "name": "Valleyview Secondary",
+    "latitude": 40.615,
+    "longitude": -74.035
+  },
+  {
+    "id": "SUB-Z4-C",
+    "name": "Creekside Distribution",
+    "latitude": 40.642,
+    "longitude": -73.99
+  },
+  {
+    "id": "SUB-Z5-A",
+    "name": "Central Hub Primary",
+    "latitude": 40.758,
+    "longitude": -74.005
+  },
+  {
+    "id": "SUB-Z5-B",
+    "name": "Midtown Secondary",
+    "latitude": 40.768,
+    "longitude": -73.992
+  },
+  {
+    "id": "SUB-Z5-C",
+    "name": "Downtown Distribution",
+    "latitude": 40.75,
+    "longitude": -74.018
+  },
+  {
+    "id": "SUB-Z6-A",
+    "name": "Industrial Park Primary",
+    "latitude": 40.68,
+    "longitude": -74.16
+  },
+  {
+    "id": "SUB-Z6-B",
+    "name": "Manufacturing Secondary",
+    "latitude": 40.665,
+    "longitude": -74.175
+  },
+  {
+    "id": "SUB-Z6-C",
+    "name": "Freight Yard Distribution",
+    "latitude": 40.695,
+    "longitude": -74.148
+  }
+]

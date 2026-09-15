@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Z1",
+    "name": "Zone 1 - Eastern",
+    "region": "Eastern District",
+    "total_customers": 15200
+  },
+  {
+    "id": "Z2",
+    "name": "Zone 2 - Western",
+    "region": "Western District",
+    "total_customers": 12800
+  },
+  {
+    "id": "Z3",
+    "name": "Zone 3 - Northern",
+    "region": "Northern District",
+    "total_customers": 18400
+  },
+  {
+    "id": "Z4",
+    "name": "Zone 4 - Southern",
+    "region": "Southern District",
+    "total_customers": 9600
+  },
+  {
+    "id": "Z5",
+    "name": "Zone 5 - Central",
+    "region": "Central District",
+    "total_customers": 22100
+  },
+  {
+    "id": "Z6",
+    "name": "Zone 6 - Industrial",
+    "region": "Industrial Corridor",
+    "total_customers": 8300
+  }
+]

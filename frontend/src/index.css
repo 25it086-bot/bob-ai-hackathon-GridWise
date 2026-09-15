@@ -1,0 +1,114 @@
+﻿@import "tailwindcss";
+
+@theme {
+  /* ── Background layers ───────────────────────────────── */
+  --color-base-0: #070B16;
+  --color-base-1: #0D1220;
+  --color-base-2: #111827;
+  --color-base-3: #1A2235;
+  --color-base-4: #1F2937;
+  --color-base-5: #374151;
+
+  /* ── Text ────────────────────────────────────────────── */
+  --color-text-0: #F9FAFB;
+  --color-text-1: #E5E7EB;
+  --color-text-2: #9CA3AF;
+  --color-text-3: #6B7280;
+
+  /* ── Risk semantic ───────────────────────────────────── */
+  --color-critical:    #EF4444;
+  --color-critical-bg: #1a0a0a;
+  --color-critical-bd: #7f1d1d;
+  --color-critical-tx: #FCA5A5;
+
+  --color-high:    #F59E0B;
+  --color-high-bg: #1a1200;
+  --color-high-bd: #78350f;
+  --color-high-tx: #FCD34D;
+
+  --color-medium:    #EAB308;
+  --color-medium-bg: #181200;
+  --color-medium-bd: #713f12;
+  --color-medium-tx: #FDE047;
+
+  --color-low:    #10B981;
+  --color-low-bg: #021a11;
+  --color-low-bd: #064e3b;
+  --color-low-tx: #6EE7B7;
+
+  --color-unknown:    #6B7280;
+  --color-unknown-bg: #111827;
+  --color-unknown-bd: #374151;
+  --color-unknown-tx: #9CA3AF;
+
+  /* ── Brand / Functional ──────────────────────────────── */
+  --color-brand:    #3B82F6;
+  --color-brand-dim:#1D4ED8;
+  --color-ai-purple:#8B5CF6;
+  --color-teal:     #14B8A6;
+
+  /* ── Typography ──────────────────────────────────────── */
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", "Cascadia Code", ui-monospace, monospace;
+}
+
+/* ── Base resets ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.55;
+  background-color: var(--color-base-0);
+  color: var(--color-text-1);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Tabular numbers in mono contexts for aligned data columns */
+.font-mono, [class*="font-mono"] {
+  font-feature-settings: "tnum" 1, "zero" 1;
+  font-variant-numeric: tabular-nums;
+}
+
+body { margin: 0; min-height: 100vh; }
+
+/* ── Scrollbar ───────────────────────────────────────────── */
+::-webkit-scrollbar        { width: 6px; height: 6px; }
+::-webkit-scrollbar-track  { background: var(--color-base-1); }
+::-webkit-scrollbar-thumb  { background: var(--color-base-5); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-brand); }
+
+/* ── Focus ring ──────────────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: 2px;
+}
+
+/* ── Skeleton shimmer ────────────────────────────────────── */
+@keyframes shimmer {
+  0%   { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, var(--color-base-3) 25%, var(--color-base-4) 50%, var(--color-base-3) 75%);
+  background-size: 800px 100%;
+  animation: shimmer 1.6s infinite linear;
+  border-radius: 4px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .skeleton { animation: none; background: var(--color-base-3); }
+}
+
+/* ── Status pulse ────────────────────────────────────────── */
+@keyframes pulse-ring {
+  0%   { box-shadow: 0 0 0 0 rgba(239,68,68,.5); }
+  70%  { box-shadow: 0 0 0 6px rgba(239,68,68,0); }
+  100% { box-shadow: 0 0 0 0 rgba(239,68,68,0); }
+}
+.pulse-critical { animation: pulse-ring 2s ease-out infinite; }
+@media (prefers-reduced-motion: reduce) { .pulse-critical { animation: none; } }
+
+/* ── Risk row accents ────────────────────────────────────── */
+.row-critical { border-left: 3px solid var(--color-critical); background: rgba(239,68,68,.04); }
+.row-high     { border-left: 3px solid var(--color-high);     background: rgba(245,158,11,.03); }
